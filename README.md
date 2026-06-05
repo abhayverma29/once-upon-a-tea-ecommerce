@@ -38,8 +38,8 @@ Optimized assets and responsive layouts for improved user experience.
 
 ## Technology Stack
 
-* WordPress
-* WooCommerce
+* Shopify
+* Liquid
 * HTML5
 * CSS3
 * JavaScript
